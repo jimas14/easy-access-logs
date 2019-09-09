@@ -1,9 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+#
 # S3 Access Logs for Humans
 # Author: James Schleicher (https://github.com/jimas14)
-# Regex from https://gist.github.com/nathangrigg/2363393
+#
+# S3 log columns from https://docs.aws.amazon.com/AmazonS3/latest/dev/LogFormat.html
+# S3 log regex from https://gist.github.com/nathangrigg/2363393
 
 import os
 import re
