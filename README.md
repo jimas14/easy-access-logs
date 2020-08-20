@@ -1,9 +1,9 @@
 # easy-access-logs
 
-I made this script because AWS access logs are an absolute nightmare to read through, let alone
+I made this script because S3 access logs are an absolute nightmare to read through, let alone
 review at a large scale.
 
-Given a directory full of access log files, the script will generate a complete CSV of all access logs.
+Given a directory full of S3 access log files, the script will generate a complete CSV of all access logs.
 
 Make sure you are in a Python 3.7 environment before running.
 
